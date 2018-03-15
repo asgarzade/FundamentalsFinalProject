@@ -1,0 +1,11 @@
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\bin\Debug\Cinema Seat Reservation.exe.config
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\bin\Debug\Cinema Seat Reservation.exe
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\bin\Debug\Cinema Seat Reservation.pdb
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\obj\Debug\Cinema Seat Reservation.csprojResolveAssemblyReference.cache
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\obj\Debug\Cinema_Seat_Reservation.Properties.Resources.resources
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\obj\Debug\Cinema Seat Reservation.csproj.GenerateResource.Cache
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\obj\Debug\Cinema Seat Reservation.csproj.CoreCompileInputs.cache
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\obj\Debug\Cinema Seat Reservation.exe
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\obj\Debug\Cinema Seat Reservation.pdb
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\obj\Debug\Cinema_Seat_Reservation.MainForm.resources
+C:\Users\KHALID\Desktop\Codes\Cinema Seat Reservation\Cinema Seat Reservation\obj\Debug\Cinema_Seat_Reservation.SeatSelector.resources

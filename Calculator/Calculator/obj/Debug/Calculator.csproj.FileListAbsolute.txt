@@ -1,0 +1,20 @@
+C:\Users\KHALID\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\KHALID\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\KHALID\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\KHALID\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\KHALID\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\KHALID\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\KHALID\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\KHALID\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\KHALID\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\KHALID\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\KHALID\source\Git Bash\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb

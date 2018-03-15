@@ -1,0 +1,38 @@
+.main{
+	position: relative;
+	width: 500px;
+	height: 500px;
+	margin: 100px auto;
+	background-image: url("../images/clock.png");
+	background-size: 500px 500px;
+}
+.second{
+	position: absolute;
+	width: 4px;
+	height: 200px;
+	background-color: grey;
+	left: 248px;
+	top: 50px;
+	transform: rotate(0deg);
+	transform-origin: 50% 100%;
+}
+.minute{
+	position: absolute;
+	width: 8px;
+	height: 160px;
+	background-color: grey;
+	left: 246px;
+	top: 90px;
+	transform: rotate(0deg);
+	transform-origin: 50% 100%;
+}
+.hour{
+	position: absolute;
+	width: 12px;
+	height: 120px;
+	background-color: grey;
+	left: 244px;
+	top: 130px;
+	transform: rotate(0deg);
+	transform-origin: 50% 100%;
+}
